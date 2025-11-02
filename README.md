@@ -1,0 +1,2 @@
+# smp
+server smp survival
